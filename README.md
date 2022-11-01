@@ -6,4 +6,4 @@ Usei para este projeto:
  Chakra UI, 
  Vite e o 
  Emotion.
- Espero que gostem!
+
